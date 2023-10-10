@@ -13,3 +13,5 @@ int main()
   std::cout << "I am " << user_name;
   return EXIT_SUCCESS; // Возвратим ОС "код успеха".
 }
+
+Сделано Бабенко Артёмом
