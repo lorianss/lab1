@@ -1,0 +1,5 @@
+//endl_string_variable.cpp
+#include <iostream>
+#include <cstdlib>
+// Строки C++.
+#include <string>
